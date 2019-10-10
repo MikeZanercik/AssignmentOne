@@ -20,12 +20,11 @@
     float: right;
 }
 
-.backgroundImage{
-    width: full;
-
+.background{
+    position: relative;
 }
-.full{
-    width: full; 
+.absolute{
+    position: absolute;
 }
 p{
     color: #777777;
@@ -34,4 +33,13 @@ p{
 h1{
     color: #4aaaa5;
     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+footer{
+    position:fixed;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    background: grey;
+    padding: 10px;
+    color: white;
 }
