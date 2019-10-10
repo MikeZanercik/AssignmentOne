@@ -1,0 +1,37 @@
+.MyPic{
+    float:left;
+    width: 20%;
+    height: 20%;
+}
+.container{
+    width: 960px;
+    margin: 0 auto;
+}
+.name{
+    color: white;
+    background: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 20px;
+    width: 30%;
+}
+.links{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777777;
+    float: right;
+}
+
+.backgroundImage{
+    width: full;
+
+}
+.full{
+    width: full; 
+}
+p{
+    color: #777777;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
